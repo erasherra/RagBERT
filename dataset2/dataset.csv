@@ -1,0 +1,377 @@
+text,label,file
+"Mistä lähteestä voidaan todeta, että henkilö on hyvinvointialueen asukas?", 0, ./chunks_hallinto/chunk.txt
+"Miten voidaan määritellä, milloin joku on kyseisen hyvinvointialueen asukas?", 0, ./chunks_hallinto/chunk.txt
+"Onko jollekin vaalikelpoisuus, jos hän ei ole julistettu vajaavaltaiseksi?", 0, ./chunks_hallinto/chunk.txt
+"Mistä seuraa, että henkilö on äänioikeutensa vuoksi vaalikelpoinen?", 0, ./chunks_hallinto/chunk.txt
+"Miten voidaan määritellä, milloin joku on äänioikeutensa vuoksi vaalikelpoinen?", 0, ./chunks_hallinto/chunk.txt
+"Mikä on tarkoitus hyvinvointialueen palveluksessa olevasta henkilöstä, joka toimii aluehallituksen tai lautakunnan tehtäväalueen johtavassa tehtävässä?", 0, ./chunks_hallinto/chunk.txt
+"Miten voidaan määritellä, milloin joku on hyvinvointialueen palveluksessa oleva henkilö, joka toimii aluehallituksen tai lautakunnan tehtäväalueen johtavassa tehtävässä?", 0, ./chunks_hallinto/chunk.txt
+"Mikä on tarkoitus hyvinvointiyhtymän jäseneltä, joka on vaalikelpoinen aluevaltuustoon?", 0, ./chunks_hallinto/chunk.txt
+"Miten voidaan määritellä, milloin joku on vaalikelpoinen aluehallitukseen?", 0, ./chunks_hallinto/chunk.txt
+"Mikä on tarkoitus henkilöstä, joka toimii 1 kohdassa tarkoitettuun tehtävään rinnastuvassa tehtävässä?", 0, ./chunks_hallinto/chunk.txt
+"Miten voidaan määritellä, milloin joku on hyvinvointialueen palveluksessa oleva henkilö, joka lautakunnan esittelijänä tai muuten vastaa aluehallituksen käsiteltäviksi tulevien asioiden valmistelusta?", 0, ./chunks_hallinto/chunk.txt
+"Mikä on tarkoitus hallituksen tai siihen rinnastettavan toimielimen jäseneltä, joka on vaalikelpoinen aluehallitukseen?", 0, ./chunks_hallinto/chunk.txt
+"Mikä on toimialajohtajan vastuussa?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja päättää sopimuksista, sitoumuksista ja hankinnoista?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan päätöksiä aluehallituksen ja hyvinvointialuejohtajan alaisuudessa?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä lasten, nuorten ja perheiden palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu toimintaa koskevaan muistutukseen, kanteluun ja muuhun vastaavaan selvityspyyntöön?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja vastaa toimilansa toiminnasta ja taloudesta?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtajan tehtävät eroavat aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu terveydenhuollon palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää valtionavun hakemisesta ja muutoksen hakemisesta sitä koskevaan päätökseen?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtajan tehtävät eroavat konsernipalvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu pelastuslaitoksen toiminnasta ja taloudesta?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan aluehallituksen ja hyvinvointialuejohtajan alaisuudessa?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä Keski-Uudenmaan pelastuslaitoksen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti Keski-Uudenmaan pelastuslaitoksen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää EU-avustuksen hakemisesta?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu lasten, nuorten ja perheiden palvelujen toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja vastaa toimilansa taloudesta?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää terveydenhuollon palvelujen toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä vanhusten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti vanhusten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää pelastuslaitoksen toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu Keski-Uudenmaan pelastuslaitoksen toiminnasta?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää valtionavun hakemisesta aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti terveydenhuollon palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää EU-avustuksen hakemisesta vanhusten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä terveydenhuollon palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti terveydenhuollon palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää pelastuslaitoksen toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitoksen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu lasten, nuorten ja perheiden palvelujen toiminnasta?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti lasten, nuorten ja perheiden palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja päättää terveydenhuollon palvelujen toimintaa koskevaan muistutukseen aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä vanhusten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti vanhusten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää pelastuslaitoksen toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitoksen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu Keski-Uudenmaan pelastuslaitoksen toiminnasta aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti terveydenhuollon palvelujen toimialalla Keski-Uudenmaan pelastuslaitoksen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja päättää EU-avustuksen hakemisesta lasten, nuorten ja perheiden palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä konsernipalvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti konsernipalvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää pelastuslaitoksen toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitoksen toimialalla aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu lasten, nuorten ja perheiden palvelujen toiminnasta Keski-Uudenmaan pelastuslaitoksen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti lasten, nuorten ja perheiden palvelujen toimialalla Keski-Uudenmaan pelastuslaitoksen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja päättää terveydenhuollon palvelujen toimintaa koskevaan muistutukseen vanhusten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää EU-avustuksen hakemisesta Keski-Uudenmaan pelastuslaitoksen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu lasten, nuorten ja perheiden palvelujen toiminnasta vanhusten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti lasten, nuorten ja perheiden palvelujen toimialalla vanhusten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja päättää pelastuslaitoksen toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitoksen toimialalla aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä terveydenhuollon palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti terveydenhuollon palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää EU-avustuksen hakemisesta aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu Keski-Uudenmaan pelastuslaitoksen toiminnasta vanhusten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti Keski-Uudenmaan pelastuslaitoksen toimialalla vanhusten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja päättää pelastuslaitoksen toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitoksen toimialalla lasten, nuorten ja perheiden palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä konsernipalvelujen toimialalla aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti konsernipalvelujen toimialalla aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää EU-avustuksen hakemisesta Keski-Uudenmaan pelastuslaitoksen toimialalla lasten, nuorten ja perheiden palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu Keski-Uudenmaan pelastuslaitoksen toiminnasta aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti Keski-Uudenmaan pelastuslaitoksen toimialalla aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja päättää pelastuslaitoksen toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitoksen toimialalla aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä terveydenhuollon palvelujen toimialalla Keski-Uudenmaan pelastuslaitoksen toimialalla aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti terveydenhuollon palvelujen toimialalla Keski-Uudenmaan pelastuslaitoksen toimialalla aikuissosiaalityön ja vammaisten palvelujen toimialalla?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää EU-avustuksen hakemisesta Keski-Uudenmaan pelastuslaitoksen toimialalla Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu Keski-Uudenmaan pelastuslaitoksen toiminnasta Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja päättää pelastuslaitoksen toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä konsernipalvelujen toimialalla Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti konsernipalvelujen toimialalla Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää EU-avustuksen hakemisesta Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu Keski-Uudenmaan pelastuslaitosten toiminnasta Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja päättää pelastuslaitoksen toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä terveydenhuollon palvelujen toimialalla Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti terveydenhuollon palvelujen toimialalla Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää EU-avustuksen hakemisesta Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu Keski-Uudenmaan pelastuslaitosten toiminnasta Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja päättää pelastuslaitoksen toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä konsernipalvelujen toimialalla Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti konsernipalvelujen toimialalla Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää EU-avustuksen hakemisesta Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu Keski-Uudenmaan pelastuslaitosten toiminnasta Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja päättää pelastuslaitoksen toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä terveydenhuollon palvelujen toimialalla Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti terveydenhuollon palvelujen toimialalla Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää EU-avustuksen hakemisesta Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu Keski-Uudenmaan pelastuslaitosten toiminnasta Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja johdetaan hyvinvointialuestrategian mukaisesti Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja päättää pelastuslaitoksen toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan tehtävä konsernipalvelujen toimialalla Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtaja kehittää toimintaansa hyvinvointialuestrategian mukaisesti konsernipalvelujen toimialalla Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Kuinka toimialajohtaja päättää EU-avustuksen hakemisesta Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Mistä kuuluu toimialajohtajan vastuu Keski-Uudenmaan pelastuslaitosten toiminnasta Keski-Uudenmaan pelastuslaitosten toimintaa koskevaan muistutukseen?", 1, ./chunks_hallinto/chunk2.txt
+"Minkälainen on hyvinvointialueen puhevallan käyttö tuomioistuimessa?", 2, ./chunks_hallinto/chunk3.txt
+"Mikä on hyvinvointialueen oikeudellisen edunvalvonnan merkitys?", 2, ./chunks_hallinto/chunk3.txt
+"Onko hyvinvointialueen puhevallan käyttö velvollisuus vai vapaa valinta?", 2, ./chunks_hallinto/chunk3.txt
+"Minkälaisia toimivaltaisia henkilöitä on hyvinvointialueessa?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialueen puhevallan käyttö vaikuttaa oikeudelliseen tilanteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Onko hyvinvointialueen puhevallan käyttö sidottu lailla vai määräyksillä?", 2, ./chunks_hallinto/chunk3.txt
+"Minkälaisia tutkimuslupa-asioita on hyvinvointialueessa?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää hyvinvointialueen toimialaan liittyvistä yhdistyksistä liittymisestä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialueen toimivaltaiset henkilöt määrittävät tietosuojan ja tietoturvan järjestämisen?", 2, ./chunks_hallinto/chunk3.txt
+"Onko hyvinvointialueen oikeudellinen edunvalvonta sidottu vain tuomioistuimiin vai myös muihin tilanteisiin?", 2, ./chunks_hallinto/chunk3.txt
+"Minkälaisia työryhmiä on hyvinvointialueessa ja kuka nimittää ne?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää hyvinvointialueen toimivaltaisen henkilön nimeämiseen kokouksiin?", 2, ./chunks_hallinto/chunk3.txt
+"Onko hyvinvointialueen oikeudellinen edunvalvonta sidottu vain toimintaohjeisiin vai myös muihin asioihin?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialueen toimivaltaiset henkilöt määrittävät palvelussuhteen muutokset?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää hyvinvointialuejohtajan ja toimialajohtajien virkojen perustamisesta ja lakkauttamisesta?", 2, ./chunks_hallinto/chunk3.txt
+"Onko pelastuslautakuntaa koskevat asiat sidottu vain 25 §:n mukaisesti vai myös muihin tilanteisiin?", 2, ./chunks_hallinto/chunk3.txt
+"Minkälaisia muutoksia on hyvinvointialueessa palvelussuhteen suhteen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää virkanimikkeen muuttamisesta?", 2, ./chunks_hallinto/chunk3.txt
+"Onko hyvinvointialuejohtajan viran kelpoisuusvaatimukset sidottu vain aluevaltuuston päätöksiin vai myös muihin tilanteisiin?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialueen toimivaltaiset henkilöt määrittävät virkanimikkeen muuttamisen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää pelastuslaitosta koskevan asian?", 2, ./chunks_hallinto/chunk3.txt
+"Onko aluevaltuusto sidottu vain hyvinvointialuejohtajan viran kelpoisuusvaatimukseen vai myös muihin tilanteisiin?", 2, ./chunks_hallinto/chunk3.txt
+"Minkälaisia virkoja on hyvinvointialueessa ja kuka nimittää ne?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää virkasuhteen muuttamisesta työsuhteeksi?", 2, ./chunks_hallinto/chunk3.txt
+"Onko hyvinvointialueen oikeudellinen edunvalvonta sidottu vain viran siirtämiseen vai myös muihin tilanteisiin?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialueen toimivaltaiset henkilöt määrittävät viran siirtämisen toiselle toimialalle?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteen muutoksen?", 2, ./chunks_hallinto/chunk3.txt
+"Onko aluehallitus sidottu vain hyvinvointialuejohtajan viran kelpoisuusvaatimukseen vai myös muihin tilanteisiin?", 2, ./chunks_hallinto/chunk3.txt
+"Minkälaisia toimivaltaisia henkilöitä on aluehallituksessa?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää virkanimikkeen muuttamisen aluehallituksessa?", 2, ./chunks_hallinto/chunk3.txt
+"Onko pelastuslautakuntaa koskevat asiat sidottu vain 25 §:n mukaisesti vai myös muihin tilanteisiin?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialueen toimivaltaiset henkilöt määrittävät palvelussuhteen muutokset aluehallituksessa?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää virkasuhteen muuttamisesta työsuhteeksi aluehallituksessa?", 2, ./chunks_hallinto/chunk3.txt
+"Onko hyvinvointialueen oikeudellinen edunvalvonta sidottu vain viran siirtämiseen vai myös muihin tilanteisiin aluehallituksessa?", 2, ./chunks_hallinto/chunk3.txt
+"Minkälaisia virkoja on aluehallituksessa ja kuka nimittää ne?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää hyvinvointialuejohtajan ja toimialajohtajien virkojen perustamisesta ja lakkauttamisesta aluehallituksessa?", 2, ./chunks_hallinto/chunk3.txt
+"Onko aluevaltuusto sidottu vain hyvinvointialuejohtajan viran kelpoisuusvaatimukseen vai myös muihin tilanteisiin aluehallituksessa?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialueen toimivaltaiset henkilöt määrittävät palvelussuhteen muutokset aluevaltuustossa?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää virkanimikkeen muuttamisen aluevaltuustossa?", 2, ./chunks_hallinto/chunk3.txt
+"Onko pelastuslautakuntaa koskevat asiat sidottu vain 25 §:n mukaisesti vai myös muihin tilanteisiin aluevaltuustossa?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialueen toimivaltaiset henkilöt määrittävät viran siirtämisen toiselle toimialalle aluevaltuustossa?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteen muutoksen aluevaltuustossa?", 2, ./chunks_hallinto/chunk3.txt
+"Onko hyvinvointialueen oikeudellinen edunvalvonta sidottu vain viran siirtämiseen vai myös muihin tilanteisiin aluevaltuustossa?", 2, ./chunks_hallinto/chunk3.txt
+"Mikäli viranomainen päättää palvelussuhteen muutoksen, mikä on sen peruste?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää palvelussuhteen muuttamisesta osa-aikaiseksi?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat virkasuhteen muuttamisen työsuhteeksi edellytykset?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluevaltuuston rooli viran siirtämiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viranhaltijan virotoimitusvelvollisuuden muutoksessa?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat palvelussuhteen ottavan viranomaismen tehtävät?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on hyvinvointialuejohtajan rooli viran siirtämiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viranhaltijan siirtämisen toiseen virkaan päättymisestä?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta hyvinvointialueen toiminnassa?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli järjestämisvastuun toteutumiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää osakeyhtiön perustamisesta hyvinvointialueella?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat henkilöstöpolitiikan yleisperiaatteet hyvinvointialueella?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli palveluiden myyntihinnoitteiden vahvistamisessa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää arkistotoimen järjestämiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat hyvinvointialuekonsernin turvallisuus- ja varautumisjärjestelyt?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli viran siirtämisen toiminnassa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää hyvinvointialueen toimialojen erityislainsäädännössä edellytettyjen vastuuviranhaltijoiden nimittämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta turvallisuus- ja varautumisjärjestelyissä?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on sisäinen valvonta hyvinvointialueella?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää avustusperiaatteiden hyväksymiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta kestävän kehityksen edistämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli ympäristönäkökulmien huomioimisessa hyvinvointialueella?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää avustusten myöntämisen perusteista liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta sosiaalisen luoton myöntämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli henkilöstöpolitiikan yleisperiaatteiden mukaisessa toteutumisessa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa aluevaltuuston ehdotuksen pohjalta?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat hyvinvointialueen toimintoja, jotka kuuluvat aluehallituksen tehtäviin?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli osakeyhtiön perustamiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää palvelussuhteen ottavan viranomaismen tehtävät?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat hyvinvointialueella käytettävät järjestelmät henkilöstöhallinnossa?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli arkistotoimen järjestämiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa, jos aluevaltuusto ehdottaa muutosta?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat hyvinvointialueen toimintoja, jotka kuuluvat aluehallituksen tehtäviin?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli viran siirtämisen toiminnassa, jos virotoimitusvelvollisuuden muutos on kyseessä?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää avustusperiaatteiden hyväksymiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta sosiaalisen luoton myöntämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli ympäristönäkökulmien huomioimisessa hyvinvointialueella?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa, jos hyvinvointi- ja sosiaalijärjestelmän muutos on kyseessä?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta kestävän kehityksen edistämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli palveluiden myyntihinnoitteiden vahvistamisessa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa, jos osakeyhtiön perustaminen on kyseessä?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat hyvinvointialueella käytettävät järjestelmät henkilöstöhallinnossa?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli arkistotoimen järjestämiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää avustusperiaatteiden hyväksymiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta turvallisuus- ja varautumisjärjestelyissä?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli viran siirtämisen toiminnassa, jos hyvinvointi- ja sosiaalijärjestelmän muutos on kyseessä?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää palvelussuhteen ottavan viranomaismen tehtävät?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta kestävän kehityksen edistämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli ympäristönäkökulmien huomioimisessa hyvinvointialueella?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa, jos avustusperiaatteita ei ole?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta sosiaalisen luoton myöntämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli osakeyhtiön perustamiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa, jos arkistotoimen järjestämiseen on kyseessä?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat hyvinvointialueella käytettävät järjestelmät henkilöstöhallinnossa?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli palveluiden myyntihinnoitteiden vahvistamisessa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää avustusperiaatteiden hyväksymiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta turvallisuus- ja varautumisjärjestelyissä?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli viran siirtämisen toiminnassa, jos hyvinvointi- ja sosiaalijärjestelmän muutos on kyseessä?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää palvelussuhteen ottavan viranomaismen tehtävät?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta kestävän kehityksen edistämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli ympäristönäkökulmien huomioimisessa hyvinvointialueella?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa, jos avustusperiaatteita ei ole?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta sosiaalisen luoton myöntämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli osakeyhtiön perustamiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa, jos arkistotoimen järjestämiseen on kyseessä?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat hyvinvointialueella käytettävät järjestelmät henkilöstöhallinnossa?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli palveluiden myyntihinnoitteiden vahvistamisessa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää avustusperiaatteiden hyväksymiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta turvallisuus- ja varautumisjärjestelyissä?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli viran siirtämisen toiminnassa, jos hyvinvointi- ja sosiaalijärjestelmän muutos on kyseessä?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää palvelussuhteen ottavan viranomaismen tehtävät?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta kestävän kehityksen edistämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli ympäristönäkökulmien huomioimisessa hyvinvointialueella?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa, jos avustusperiaatteita ei ole?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta sosiaalisen luoton myöntämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli osakeyhtiön perustamiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa, jos arkistotoimen järjestämiseen on kyseessä?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat hyvinvointialueella käytettävät järjestelmät henkilöstöhallinnossa?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli palveluiden myyntihinnoitteiden vahvistamisessa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää avustusperiaatteiden hyväksymiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta turvallisuus- ja varautumisjärjestelyissä?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli viran siirtämisen toiminnassa, jos hyvinvointi- ja sosiaalijärjestelmän muutos on kyseessä?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää palvelussuhteen ottavan viranomaismen tehtävät?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta kestävän kehityksen edistämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli ympäristönäkökulmien huomioimisessa hyvinvointialueella?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa, jos avustusperiaatteita ei ole?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta sosiaalisen luoton myöntämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli osakeyhtiön perustamiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa, jos arkistotoimen järjestämiseen on kyseessä?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat hyvinvointialueella käytettävät järjestelmät henkilöstöhallinnossa?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli palveluiden myyntihinnoitteiden vahvistamisessa?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää avustusperiaatteiden hyväksymiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta turvallisuus- ja varautumisjärjestelyissä?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli viran siirtämisen toiminnassa, jos hyvinvointi- ja sosiaalijärjestelmän muutos on kyseessä?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää palvelussuhteen ottavan viranomaismen tehtävät?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta kestävän kehityksen edistämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli ympäristönäkökulmien huomioimisessa hyvinvointialueella?", 3, ./chunks_hallinto/chunk4.txt
+"Kuka päättää viran siirtämisen toiminnassa, jos avustusperiaatteita ei ole?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat aluehallituksen tehtävät ja toimivalta sosiaalisen luoton myöntämiseen?", 3, ./chunks_hallinto/chunk4.txt
+"Mikä on aluehallituksen rooli osakeyhtiön perustamiseen liittyvissä asioissa?", 3, ./chunks_hallinto/chunk4.txt
+"Mitkä ovat toimialajohtajien tehtävät?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimialajohtaja vastaa toimialansa toiminnasta ja taloudesta?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vanhusten palvelujen toimialajohtaja?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on lasten, nuorten ja perheiden palvelujen toimialajohtaja?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on konsernipalvelujen toimialassa tehtävä?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on terveydenhuollon palvelujen toimialajohtaja?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään aikuissosiaalityön ja vammaisten palvelujen toimialassa?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien työryhmien jäsenten nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään hyvinvointialueen puhevallan käyttämisessä tuomioistuimissa?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on toimialajan tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin liittymisestä allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien tietoluvista allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään toimialansa vastuualueelle kuuluviin yhdistyksiin liittymisessä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on lasten, nuorten ja perheiden palvelujen toimintaa koskeva muistutus 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Kuka on vastuualueelle kuuluvien yhdistyksiin edustajien nimiämisen osaltaan allekirjoittanut?", 4, ./chunks_hallinto/chunk5.txt
+"Miten toimivaltaa käytetään pelastusjohtajana Keski-Uudenmaan pelastuslaitoksessa 33 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on aikuissosiaalityön ja vammaisten palvelujen toimialassa tehtävä 47 §:n mukaan?", 4, ./chunks_hallinto/chunk5.txt
+"What is the purpose of a rescue organization's communication plan?", 4, ./chunks_hallinto/chunk5.txt
+"Miten 76 §joittaminen vaikuttaa toimialan sisäiseen valvonnan toteutumiseen?", 5, ./chunks_hallinto/chunk6.txt
+"Onko toimialalla tietosuojavastuu ja jos ei, miksi?", 5, ./chunks_hallinto/chunk6.txt
+"Mitkä ovat toimialan tietoturvan järjestämisen perusteet?", 5, ./chunks_hallinto/chunk6.txt
+"Kuka on vastuussa toimialansa vastuualueelle kuuluvien työryhmien jäsenten nimeämisestä?", 5, ./chunks_hallinto/chunk6.txt
+"Miten edustajia valitaan toimialansa vastuualueelle kuuluviin yhdistyksiin?", 5, ./chunks_hallinto/chunk6.txt
+"Mikä on toimialanssa koskevien toimintaohjeiden (pysyväisluonteiset määräykset) tarkoitus?", 5, ./chunks_hallinto/chunk6.txt
+"Onko muutakin sisäistä valvontaa kuin 76 §joittamisen varmistamiseksi?", 5, ./chunks_hallinto/chunk6.txt
+"Miten Aluehallitus vastaa kokonaisvaltaisen sisäisen valvonnan ja riskienhallinnan toteutumiseen?", 5, ./chunks_hallinto/chunk6.txt
+"Mitkä ovat Aluehallituksen sisäisen valvonnan tehtävät?", 5, ./chunks_hallinto/chunk6.txt
+"Kuka on vastuussa toimialansa tietoturvan järjestämisen toteutumiseen?", 5, ./chunks_hallinto/chunk6.txt
+"Onko toimialalla omavalvontaohjelma ja jos ei, miksi?", 5, ./chunks_hallinto/chunk6.txt
+"Miten sisäinen valvonta ja riskienhallinta vaikuttavat toimialan tuloksellisuuteen?", 5, ./chunks_hallinto/chunk6.txt
+"Kuka on vastuussa toimialansa vastuualueelle kuuluvien yhdistyksien kokousten johtamiseen?", 5, ./chunks_hallinto/chunk6.txt
+"Mitkä ovat sisäisen valvonnan ja riskienhallinnan järjestämisen perusteet?", 5, ./chunks_hallinto/chunk6.txt
+"Onko hyvinvointialuejohtaja vastuussa toimialansa sisäisen valvonnan toteutumiseen?", 5, ./chunks_hallinto/chunk6.txt
+"Miten Aluehallitus varmistaa toimialansa laillisuuden ja tuloksellisuuden?", 5, ./chunks_hallinto/chunk6.txt
+"Mitkä ovat toimialan tietosuojan järjestämisen perusteet?", 5, ./chunks_hallinto/chunk6.txt
+"Kuka on vastuussa toimialansa sisäisen valvonnan raportoinnin toteutumiseen?", 5, ./chunks_hallinto/chunk6.txt
+"Miten sisäinen valvonta ja riskienhallinta vaikuttavat toimialan riskien tunnistamiseen?", 5, ./chunks_hallinto/chunk6.txt
+"Onko toimialalla varautumisohjelma ja jos ei, miksi?", 5, ./chunks_hallinto/chunk6.txt
+"Mitkä ovat sisäisen valvonnan ja riskienhallinnan toteutumiseen vaikuttavat tekijät?", 5, ./chunks_hallinto/chunk6.txt
+"Miten Aluehallitus varmistaa toimialansa hyvän hallinnon ja lainmukaisuuden?", 5, ./chunks_hallinto/chunk6.txt

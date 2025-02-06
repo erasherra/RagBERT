@@ -1,0 +1,89 @@
+text,label,file
+In what year did Einstein graduate from the Federal Polytechnic School?, 0, ./chunks/test.txt
+What qualifications did Einstein receive upon graduation?, 0, ./chunks/test.txt
+When did Einstein acquire Swiss citizenship?, 0, ./chunks/test.txt
+Why was Einstein not conscripted into the Swiss military?, 0, ./chunks/test.txt
+How long did Einstein spend trying to find a teaching position in Swiss schools?, 0, ./chunks/test.txt
+Who helped Einstein secure a position at the Swiss Patent Office?, 0, ./chunks/test.txt
+In which city was the Swiss Patent Office where Einstein worked located?, 0, ./chunks/test.txt
+What was Einstein's position at the Swiss Patent Office?, 0, ./chunks/test.txt
+What level was Einstein's position as an assistant examiner?, 0, ./chunks/test.txt
+Name one of the patent applications that Einstein evaluated., 0, ./chunks/test.txt
+Were Einstein's employers pleased with his work at the Swiss Patent Office?, 0, ./chunks/test.txt
+What did Einstein's employers require for his promotion at the Patent Office?, 0, ./chunks/test.txt
+How might Einstein's work at the patent office have influenced his scientific development?, 0, ./chunks/test.txt
+What theory is reportedly linked to Einstein's thought experiments while at the patent office?, 0, ./chunks/test.txt
+What two aspects of science did Einstein particularly focus on through his thought experiments?, 0, ./chunks/test.txt
+In what year did Einstein and his friends form the Olympia Academy?, 0, ./chunks/test.txt
+In which city did Einstein meet the friends with whom he formed the Olympia Academy?, 0, ./chunks/test.txt
+What did the members of the Olympia Academy regularly discuss?, 0, ./chunks/test.txt
+What was ironic about the name "Olympia Academy"?, 0, ./chunks/test.txt
+Who occasionally joined the meetings of the Olympia Academy?, 0, ./chunks/test.txt
+How did Marić participate in the discussions of the Olympia Academy?, 0, ./chunks/test.txt
+Name one thinker whose works influenced the discussions of the Olympia Academy., 0, ./chunks/test.txt
+How did Henri Poincaré influence Einstein's ideas?, 0, ./chunks/test.txt
+What is one philosophical influence on Einstein mentioned in the text?, 0, ./chunks/test.txt
+How were Ernst Mach's ideas significant for Einstein?, 0, ./chunks/test.txt
+What element of David Hume's work might have impacted Einstein's beliefs?, 0, ./chunks/test.txt
+What subjects was Einstein certified to teach after his graduation?, 0, ./chunks/test.txt
+How did Einstein's experience with Swiss schools contrast with his qualifications?, 0, ./chunks/test.txt
+When did Einstein's position at the patent office become permanent?, 0, ./chunks/test.txt
+What impact did the discussions at the Olympia Academy have on Einstein's later work?, 0, ./chunks/test.txt
+What was Albert Einstein's nationality at birth?, 1, ./chunks/test2.txt
+What theory is Albert Einstein best known for developing?, 1, ./chunks/test2.txt
+"What is the famous equation associated with Albert Einstein, and which theory does it arise from?", 1, ./chunks/test2.txt
+In what year did Albert Einstein receive the Nobel Prize in Physics?, 1, ./chunks/test2.txt
+For what discovery did Albert Einstein receive the Nobel Prize in Physics?, 1, ./chunks/test2.txt
+From which country did Einstein forsake his citizenship in 1896?, 1, ./chunks/test2.txt
+To which country did Einstein move in 1895?, 1, ./chunks/test2.txt
+At which educational institution did Einstein enroll in a mathematics and physics teaching diploma program?, 1, ./chunks/test2.txt
+In what year did Einstein graduate from the Swiss Federal Polytechnic School in Zurich?, 1, ./chunks/test2.txt
+When did Einstein acquire Swiss citizenship?, 1, ./chunks/test2.txt
+Where did Einstein secure a permanent position after acquiring Swiss citizenship?, 1, ./chunks/test2.txt
+To which university did Einstein submit his successful PhD dissertation in 1905?, 1, ./chunks/test2.txt
+Which city did Einstein move to in 1914 to join the Prussian Academy of Sciences?, 1, ./chunks/test2.txt
+What position did Einstein hold at the Kaiser Wilhelm Institute for Physics?, 1, ./chunks/test2.txt
+"In which year did Adolf Hitler come to power, influencing Einstein's decision to remain in the United States?", 1, ./chunks/test2.txt
+What action did Einstein take in response to Nazi persecution in Germany?, 1, ./chunks/test2.txt
+When was Einstein granted American citizenship?, 1, ./chunks/test2.txt
+What is the full name of Marie Curie at birth?, 2, ./chunks/test3.txt
+How is Marie Curie's name pronounced in Polish?, 2, ./chunks/test3.txt
+When was Marie Curie born?, 2, ./chunks/test3.txt
+When did Marie Curie pass away?, 2, ./chunks/test3.txt
+What was Marie Curie's original nationality?, 2, ./chunks/test3.txt
+In which fields did Marie Curie conduct pioneering research?, 2, ./chunks/test3.txt
+What historic achievement did Marie Curie accomplish regarding the Nobel Prize?, 2, ./chunks/test3.txt
+Who was Marie Curie's husband and what was his contribution to their Nobel Prize win?, 2, ./chunks/test3.txt
+How many Nobel Prizes did the Curie family win overall?, 2, ./chunks/test3.txt
+What notable first did Marie Curie achieve at the University of Paris in 1906?, 2, ./chunks/test3.txt
+Where was Marie Curie born?, 2, ./chunks/test3.txt
+Which clandestine institution did Marie Curie study at in Warsaw?, 2, ./chunks/test3.txt
+In which year did Marie Curie move to Paris to further her studies?, 2, ./chunks/test3.txt
+Who was Marie Curie’s elder sister that she followed to Paris?, 2, ./chunks/test3.txt
+Who shared the 1903 Nobel Prize in Physics with Marie Curie?, 2, ./chunks/test3.txt
+For what discovery did Marie Curie win the 1911 Nobel Prize in Chemistry?, 2, ./chunks/test3.txt
+What significant contribution did Marie Curie make in the medical field using radioactive isotopes?, 2, ./chunks/test3.txt
+What are the names of the two institutes founded by Marie Curie?, 2, ./chunks/test3.txt
+What technological advancement did Marie Curie develop during World War I?, 2, ./chunks/test3.txt
+How did Marie Curie maintain her Polish identity while being a French citizen?, 2, ./chunks/test3.txt
+Who is considered the father of theoretical computer science?, 3, ./chunks/test4.txt
+What significant contribution did Alan Turing make to theoretical computer science?, 3, ./chunks/test4.txt
+When and where was Alan Turing born?, 3, ./chunks/test4.txt
+From which two prestigious institutions did Turing graduate?, 3, ./chunks/test4.txt
+For what specific role is Turing recognized during World War II?, 3, ./chunks/test4.txt
+"What was Hut 8 at Bletchley Park, and what was Turing's role there?", 3, ./chunks/test4.txt
+How did Turing contribute to the breaking of German ciphers during World War II?, 3, ./chunks/test4.txt
+What was the significance of the Enigma machine in World War II?, 3, ./chunks/test4.txt
+"What is the Turing machine, and why is it important?", 3, ./chunks/test4.txt
+What was Turing’s role in the development of Ultra intelligence?, 3, ./chunks/test4.txt
+What major wartime battle did Turing's cryptanalysis work significantly impact?, 3, ./chunks/test4.txt
+What did Turing design at the National Physical Laboratory after World War II?, 3, ./chunks/test4.txt
+"Which laboratory did Turing join in 1948, and what was one of his primary areas of research while there?", 3, ./chunks/test4.txt
+In which field outside of computer science did Turing make theoretical contributions?, 3, ./chunks/test4.txt
+"What is morphogenesis, and what was Turing's contribution to this area?", 3, ./chunks/test4.txt
+"What are oscillating chemical reactions, and which reaction did Turing predict?", 3, ./chunks/test4.txt
+"Why was much of Turing's work during his lifetime not fully recognized?", 3, ./chunks/test4.txt
+What specific event in Turing's personal life led to his prosecution in 1952?, 3, ./chunks/test4.txt
+What was the result of Turing being prosecuted for homosexual acts in 1952?, 3, ./chunks/test4.txt
+"How did Alan Turing die, and what were the circumstances surrounding his death?", 3, ./chunks/test4.txt
+

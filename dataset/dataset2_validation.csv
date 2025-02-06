@@ -1,0 +1,28 @@
+text,label,file
+Name one of the patent applications that Einstein evaluated., 0, ./chunks/test.txt
+Were Einstein's employers pleased with his work at the Swiss Patent Office?, 0, ./chunks/test.txt
+What did Einstein's employers require for his promotion at the Patent Office?, 0, ./chunks/test.txt
+How might Einstein's work at the patent office have influenced his scientific development?, 0, ./chunks/test.txt
+What theory is reportedly linked to Einstein's thought experiments while at the patent office?, 0, ./chunks/test.txt
+What two aspects of science did Einstein particularly focus on through his thought experiments?, 0, ./chunks/test.txt
+In what year did Einstein and his friends form the Olympia Academy?, 0, ./chunks/test.txt
+In which city did Einstein meet the friends with whom he formed the Olympia Academy?, 0, ./chunks/test.txt
+What did the members of the Olympia Academy regularly discuss?, 0, ./chunks/test.txt
+What was ironic about the name "Olympia Academy"?, 0, ./chunks/test.txt
+Who occasionally joined the meetings of the Olympia Academy?, 0, ./chunks/test.txt
+"Which U.S. President did Einstein endorse a letter to, concerning nuclear weapons research?", 1, ./chunks/test2.txt
+What was the purpose of Einstein's letter to President Franklin D. Roosevelt?, 1, ./chunks/test2.txt
+What significant world event was about to begin when Einstein endorsed the letter to Roosevelt?, 1, ./chunks/test2.txt
+"What important contributions, aside from the theory of relativity, did Einstein make?", 1, ./chunks/test2.txt
+Where was Einstein born?, 1, ./chunks/test2.txt
+What institution did Einstein join in Berlin in 1914?, 1, ./chunks/test2.txt
+"What name did Marie Curie give to the first chemical element she discovered, and why?", 2, ./chunks/test3.txt
+"What was the cause of Marie Curie's death, and what was it likely caused by?", 2, ./chunks/test3.txt
+Where did Marie Curie die?, 2, ./chunks/test3.txt
+What posthumous honor did Marie Curie receive in 1995 in France?, 2, ./chunks/test3.txt
+What special designation did Poland give to the year 2011 in honor of Marie Curie?, 2, ./chunks/test3.txt
+How did the British government officially respond to Turing's treatment in 2009?, 3, ./chunks/test4.txt
+"Who granted Alan Turing a pardon in 2013, and for what reason?", 3, ./chunks/test4.txt
+What informal term is used to refer to the 2017 UK law pardoning men cautioned or convicted of homosexual acts?, 3, ./chunks/test4.txt
+What was Turing's involvement with the Manchester computers?, 3, ./chunks/test4.txt
+How did Turing's contributions influence the development of modern computers?, 3, ./chunks/test4.txt

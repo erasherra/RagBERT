@@ -1,0 +1,28 @@
+text,label,file
+In what year did Einstein graduate from the Federal Polytechnic School?, 0, ./chunks/test.txt
+What qualifications did Einstein receive upon graduation?, 0, ./chunks/test.txt
+When did Einstein acquire Swiss citizenship?, 0, ./chunks/test.txt
+Why was Einstein not conscripted into the Swiss military?, 0, ./chunks/test.txt
+How long did Einstein spend trying to find a teaching position in Swiss schools?, 0, ./chunks/test.txt
+Who helped Einstein secure a position at the Swiss Patent Office?, 0, ./chunks/test.txt
+In which city was the Swiss Patent Office where Einstein worked located?, 0, ./chunks/test.txt
+What was Einstein's position at the Swiss Patent Office?, 0, ./chunks/test.txt
+What level was Einstein's position as an assistant examiner?, 0, ./chunks/test.txt
+Name one of the patent applications that Einstein evaluated., 0, ./chunks/test.txt
+What year did Einstein submit his PhD dissertation?, 1, ./chunks/test2.txt
+What was the political situation in Germany when Einstein decided to stay in the U.S.?, 1, ./chunks/test2.txt
+Who was in power in Germany during Einstein's visit to the U.S. in 1933?, 1, ./chunks/test2.txt
+Why did Einstein decide not to return to Germany in 1933?, 1, ./chunks/test2.txt
+In what field did Albert Einstein primarily work?, 1, ./chunks/test2.txt
+How old was Einstein when he enrolled at the Swiss Federal Polytechnic School?, 1, ./chunks/test2.txt
+What did Einstein's Nobel Prize-winning research primarily focus on?, 1, ./chunks/test2.txt
+What two hardships did Marie Curie face upon arriving in Paris for her studies?, 2, ./chunks/test3.txt
+In what year did Marie Curie co-coined the term "radioactivity"?, 2, ./chunks/test3.txt
+What notable role did Marie Curie's family have concerning the Nobel Prize?, 2, ./chunks/test3.txt
+Name two elements discovered by Marie Curie., 2, ./chunks/test3.txt
+How is Marie Curie commemorated or remembered in popular culture according to the text?, 2, ./chunks/test3.txt
+What were the "improvements to the pre-war Polish bomba method" that Turing devised?, 3, ./chunks/test4.txt
+What impact did the Official Secrets Act have on the recognition of Turing's work?, 3, ./chunks/test4.txt
+Why is Alan Turing's work on the Turing machine still relevant today?, 3, ./chunks/test4.txt
+What was Turing's educational background prior to his work during World War II?, 3, ./chunks/test4.txt
+In which fields besides computer science did Alan Turing make significant contributions?, 3, ./chunks/test4.txt

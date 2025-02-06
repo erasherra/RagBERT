@@ -1,0 +1,394 @@
+text,label,file
+"Onko henkilö kyseisen hyvinvointialueen asukas, jotta hän on vaalikelpoinen?", 0, ./chunks_hallinto/chunk.txt
+"Miten voit olla jolla on äänioikeus aluevaaleissa sinä vuonna, jona valtuutetut valitaan?", 0, ./chunks_hallinto/chunk.txt
+"Mitä tarkoittaa "jota ei ole julistettu vajaavaltaiseksi"?", 0, ./chunks_hallinto/chunk.txt
+"Onko hyvinvointialueen palveluksessa oleva henkilö aina vaalikelpoinen?", 0, ./chunks_hallinto/chunk.txt
+"Voitko olla vaalikelpoinen, jos olet valtion virkamies?", 0, ./chunks_hallinto/chunk.txt
+"Miten toiminta aluehallituksen tehtäväalueella vaikuttaa vaalikelpoisuuteen?", 0, ./chunks_hallinto/chunk.txt
+"Onko henkilö aina vaalikelpoinen, jos hän on hyvinvointialueen määräysvallassa olevan yhteisön palveluksessa?", 0, ./chunks_hallinto/chunk.txt
+"Voitko olla vaalikelpoinen, jos olet hyvinvointiyhtymän jäsen?", 0, ./chunks_hallinto/chunk.txt
+"Mitä tarkoittaa "palvelussuhde" tässä kontekstissa?", 0, ./chunks_hallinto/chunk.txt
+"Onko henkilö aina vaalikelpoinen, jos hän on aluevaltuustoon valituksen jälkeen?", 0, ./chunks_hallinto/chunk.txt
+"Ei ole valtion virkamies, joka hoitaa välittömästi hyvinvointialuetta koskevia valvontatehtäviä, vaalikelpoinen aluevaltuustoon?", 0, ./chunks_hallinto/chunk.txt
+"Onko hyvinvointialueen palveluksessa oleva henkilö aina vaalikelpoinen aluevaltuustoon?", 0, ./chunks_hallinto/chunk.txt
+"Ei ole hyvinvointialueen määräysvallassa olevan yhteisön tai säätiön palveluksessa oleva henkilö, joka toimii aluehallituksen tehtäväalueella?", 0, ./chunks_hallinto/chunk.txt
+"Voitko olla vaalikelpoinen, jos olet hyvinvointialueen määräysvallassa olevan yhteisön hallituksen puheenjohtaja?", 0, ./chunks_hallinto/chunk.txt
+"Onko henkilö aina vaalikelpoinen aluehallitukseen, jos hän on hyvinvointialueen palveluksessa oleva henkilö?", 0, ./chunks_hallinto/chunk.txt
+"Ei ole hyvinvointiyhtymän jäsen, joka on hyvinvointialueen aluevaltuuston osalta vaalikelpoinen?", 0, ./chunks_hallinto/chunk.txt
+"Voitko olla vaalikelpoinen, jos olet henkilö, jolla on hallituksen tai siihen rinnastettavan toimielimen jäsenyyden?", 0, ./chunks_hallinto/chunk.txt
+"Onko hyvinvointialueen palveluksessa oleva henkilö aina vaalikelpoinen aluehallitukseen?", 0, ./chunks_hallinto/chunk.txt
+"Miten edunvalvonta vaikuttaa vaalikelpoisuuteen?", 0, ./chunks_hallinto/chunk.txt
+"Onko henkilö aina vaalikelpoinen, jos hän on aluehallituksen jäsen?", 0, ./chunks_hallinto/chunk.txt
+"Voitko olla vaalikelpoinen, jos olet hallituksen tai siihen rinnastettavan toimielimen puheenjohtaja?", 0, ./chunks_hallinto/chunk.txt
+"Onko henkilö aina vaalikelpoinen, jos hän on hyvinvointialueen määräysvallassa olevan yhteisön hallituksen jäsen?", 0, ./chunks_hallinto/chunk.txt
+"Mitä tarkoittaa "enemmistö" aluehallituksen jäsenistä?", 0, ./chunks_hallinto/chunk.txt
+"Onko henkilö aina vaalikelpoinen, jos hän on hyvinvointialueen määräysvallassa olevan yhteisön palveluksessa oleva henkilö?", 0, ./chunks_hallinto/chunk.txt
+"Miten toimialajohtajan tehtävät ja toimivalta kuvaavat?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on Lasten, nuorten ja perheiden palvelujen toimialajärjestelmässä lasten, nuorten ja perheiden palvelujen toimialajohtaja?", 1, ./chunks_hallinto/chunk2.txt
+"Miten aikuissosiaalityön ja vammaisten palvelujen toimialaorganisaatio on rakennettu?", 1, ./chunks_hallinto/chunk2.txt
+"Mitä tehtäviä vanhusten palvelujen toimialajärjestelmässä vanhusten palvelujen toimialajohtaja hoitaa?", 1, ./chunks_hallinto/chunk2.txt
+"Kuka on Konsernipalvelujen toimialajärjestelmässä konsernipalvelujen toimialajohtaja?", 1, ./chunks_hallinto/chunk2.txt
+"Miten terveydenhuollon palvelujen toimialaorganisaatio on rakennettu?", 1, ./chunks_hallinto/chunk2.txt
+"Mitä tehtäviä pelastusjohtajalla on Keski-Uudenmaan pelastuslaitoksessa?", 1, ./chunks_hallinto/chunk2.txt
+"Miten toimialajohtajan toimivalta ja -tehtävät kuvaavat hyvinvointialuestrategian toteutumista?", 1, ./chunks_hallinto/chunk2.txt
+"Mikä on toimialajohtajan vastuu aluehallituksen ja hyvinvointialuejohtajan alaisuudessa?", 1, ./chunks_hallinto/chunk2.txt
+"Miten sopimuksista, sitoumuksista ja hankinnoista päättäminen kuuluu toimialajohtajan tehtäviin?", 1, ./chunks_hallinto/chunk2.txt
+"Kuka vastaa valtionavun hakemisesta ja muutoksen hakemisesta sitä koskevaan päätökseen?", 1, ./chunks_hallinto/chunk2.txt
+"Miten EU-avustuksen hakeminen kuuluu toimialajohtajan tehtäviin?", 1, ./chunks_hallinto/chunk2.txt
+"Mitä tehtäviä toimialaansa koskeviin hankkeisiin osallistumisesta on toimialajohtajalla?", 1, ./chunks_hallinto/chunk2.txt
+"Miten vastaus antaminen toimialansa toimintaa koskevaan muistutukseen kuuluu toimialajohtajan tehtäviin?", 1, ./chunks_hallinto/chunk2.txt
+"Minkälaisia erityiskäsityksiä on annettu toimialajohtajan tehtävissä?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Miten otetaan huomioon, mitä erikseen on säädetty tai määrätty?", 2, ./chunks_hallinto/chunk3.txt
+"Mikä on hyvinvointialuejohtajan tehtäväksi kuuluvaa viran kelpoisuusvaatimuksista päättämistä?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Palvelussuhdetta koskevista muutoksista kuka päättää?", 2, ./chunks_hallinto/chunk3.txt
+"Miten palvelussuhteen muuttaminen työsuhteeksi toteutetaan?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää virkasuhteen muuttamisesta osa-aikaiseksi?", 2, ./chunks_hallinto/chunk3.txt
+"Miten virantoimitusvelvollisuuden muuttaminen toteutetaan?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viranhaltijan siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää hyvinvointialuejohtaja 76 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mikä on Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää hyvinvointialuejohtaja 76 §:n mukaisesti alaistensa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä alaistensa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti alaistensa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää alaistensa osalta viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen alaistensa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää alaistansa osalta viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista alaistensa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti alaistansa osalta?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää hyvinvointialuejohtaja 76 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää muutoksista muissa virkojen kelpoisuusvaatimuksissa?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Miten toimialajohtaja päättää 76 §:n mukaisesti viranhaltijoiden muutoksista?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Pelastuslautakunta 25 §:n mukaisesti?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää aluevaltuuston ja aluehallinnon tehtäviä?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslaitos liitettiin Pelastuslautakuntaan?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää Palvelussuhteeseen ottava viranomainen?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää siirroista toimialalta toiselle?", 2, ./chunks_hallinto/chunk3.txt
+"Miten pelastuslautakunta liitettiin Pelastuksen tehtäviin?", 2, ./chunks_hallinto/chunk3.txt
+"Kuka päättää viran siirtämisestä toiseen virkasuhteeseen?", 2, ./chunks_hallinto/chunk3.txt
+"Mitkä asiat päättää aluevaltuusto ja aluehallitus?", 2, ./chunks_hallinto/chunk3.txt
+"Miten hyvinvointialuejohtaja päättää viran kelpoisuusvaatimuksista?", 2, ./chunks_hallinto/chunk3.txt
+"Miten 76 §:n mukaan kumotun virkaan ottamispäätöksen kumoaminen vaikuttaa hyvinvointialueen toimintaan?", 3, ./chunks_hallinto/chunk4.txt
+"Kuinka usein on syytä palauttaa virkaan ottamispäätös uudelleen käsiteltäväksi?", 3, ./chunks_hallinto/chunk4.txt
+"Miten kumotun virkaan ottamispäätöksen kumoaminen vaikuttaa henkilöstön työturvallisuuteen?", 3, ./chunks_hallinto/chunk4.txt
+"Kuinka hyvinvointialueen toiminta muuttuu, jos virkaan ottamispäätös kumottaa lainvoiman päätöksellä?", 3, ./chunks_hallinto/chunk4.txt
+"Miten henkilöstöä koskevia päätöksiä tehdään, kun virkaan ottamispäätös on kumottu?", 3, ./chunks_hallinto/chunk4.txt
+"Kuinka hyvinvointialueen tietoja ja dokumentteja tallennetaan, kun virkaan ottamispäätös kumottaa lainvoiman päätöksellä?", 3, ./chunks_hallinto/chunk4.txt
+"Miten aluehallitus vastaa, kun virkaan ottamispäätös kumottaa lainvoiman päätöksellä?", 3, ./chunks_hallinto/chunk4.txt
+"Kuinka hyvinvointialueen toimintaa seurataan, kun virkaan ottamispäätös kumottaa lainvoiman päätöksellä?", 3, ./chunks_hallinto/chunk4.txt
+"Miten henkilöstön koulutus ja kehittymismahdollisuudet muuttuvat, kun virkaan ottamispäätös kumottaa lainvoiman päätöksellä?", 3, ./chunks_hallinto/chunk4.txt
+"Kuinka hyvinvointialueen tietoja ja dokumentteja luovutaan, kun virkaan ottamispäätös kumottaa lainvoiman päätöksellä?", 3, ./chunks_hallinto/chunk4.txt
+"Miten aluehallituksen tehtävät ja toimivalta muuttuvat, kun virkaan ottamispäätös kumottaa lainvoiman päätöksellä?", 3, ./chunks_hallinto/chunk4.txt
+"Kuinka hyvinvointialueen talous ja budjetti muuttuvat, kun virkaan ottamispäätös kumottaa lainvoiman päätöksellä?", 3, ./chunks_hallinto/chunk4.txt
+"Miten henkilöstön työturvallisuus toteutuu, kun virkaan ottamispäätös kumottaa lainvoiman päätöksellä?", 3, ./chunks_hallinto/chunk4.txt
+"Kuinka hyvinvointialueen toimintaa jatkettaa, kun virkaan ottamispäätös kumottaa lainvoiman päätöksellä?", 3, ./chunks_hallinto/chunk4.txt
+"Miten aluehallituksen päättämiseen perustuvat päätökset muuttuvat, kun virkaan ottamispäätös kumottaa lainvoiman päätöksellä?", 3, ./chunks_hallinto/chunk4.txt
+"Mitä ovat hyvinvointialueen 76 §-päätökset?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on tarkoitus näillä päätöksillä?", 4, ./chunks_hallinto/chunk5.txt
+"Kuinka monta päätöstä on yhteensä?", 4, ./chunks_hallinto/chunk5.txt
+"Onko näitä päätöksiä voitu muokata edellisessä vaiheessa?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on tarkoitus nässä päätökseen liittyvässä selvityksessä?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on tarkoitus nässä päätökseen liittyvässä avustusperiaatteissa?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on tarkoitus nässä päätökseen liittyvässä sosiaalisen luoton myöntämisen perusteissa?", 4, ./chunks_hallinto/chunk5.txt
+"Vastaa siitä, että hyvinvointialue täyttää tietosuojalainsäädännön mukaiset velvoitteet?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on kestävän kehityksen ja ympäristönäkökulmien huomioiminen hyvinvointialueella?", 4, ./chunks_hallinto/chunk5.txt
+"Mikä on tarkoitus avustusperiaatteissa?", 4, ./chunks_hallinto/chunk5.txt
+"Vastaa siitä, että avustukset myönnetään käyttöselvitysten pohjalta?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä on sosiaalisen luoton myöntämisen perusteet?", 4, ./chunks_hallinto/chunk5.txt
+"Vastaa siitä, että tiedonhallintalain 4.2 §:n vastuut, käytännöt ja valvonta on määritelty hyvinvointialueella?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä ovat tiedonhallinnan toteuttamiseen liittyvien tehtävien vastuut?", 4, ./chunks_hallinto/chunk5.txt
+"Vastaa siitä, että asiakirjahallinnon ohjeistus, käytännöt, vastuut ja valvonta on määritelty hyvinvointialueen eri tehtävissä?", 4, ./chunks_hallinto/chunk5.txt
+"Mitä ovat hyvinvointialueen arkistonmuodostussuunnitelman sekä tiedonohjaussuunnitelman hyväksymisestä?", 4, ./chunks_hallinto/chunk5.txt
+"Minkälainen on hyvinvointialueen arkistonmuodostussuunnitelma?", 5, ./chunks_hallinto/chunk6.txt
+"Mikä on tiedonohjaussuunnitelman tarkoitus hyvinvointialueella?", 5, ./chunks_hallinto/chunk6.txt
+"Kuka päättää hyvinvointialueen asiakirjahallinnon ohjeistuksesta?", 5, ./chunks_hallinto/chunk6.txt
+"Miten hyvinvointialuejohtaja vastaa siitä, että asiakirjahallinnon hoitaminen on järjestetty annettujen määräysten ja ohjeiden mukaisesti?", 5, ./chunks_hallinto/chunk6.txt
+"Mikä on aluehallituksen sisäisen valvonnan tarkoitus hyvinvointialueella?", 5, ./chunks_hallinto/chunk6.txt
+"Miten hyvinvointialuejohtaja päättää raportoinnin aikataulun ja tavan?", 5, ./chunks_hallinto/chunk6.txt
+"Mitä tietoja hyvinvointialuejohtaja antaa toimintakertomuksessa?", 5, ./chunks_hallinto/chunk6.txt
+"Mikä on sisäisen valvonnan järjestämisessä tarkoitus hyvinvointialueella?", 5, ./chunks_hallinto/chunk6.txt
+"Miten hyvinvointialuejohtaja vastaa sisäisen valvonnan ja riskienhallinnan järjestämisestä?", 5, ./chunks_hallinto/chunk6.txt
+"Mitä on hyväksyttävä omavalvontaohjelman vuosittaisessa raportissa?", 5, ./chunks_hallinto/chunk6.txt
+"Kuka antaa toimintakertomuksen tiedot hyvinvointialueella?", 5, ./chunks_hallinto/chunk6.txt
+"Mikä on sisäisen tarkastuksen vuosisuunnitelman tarkoitus hyvinvointialueella?", 5, ./chunks_hallinto/chunk6.txt
+"Miten hyvinvointialuejohtaja päättää sisäisen tarkastuksen valmistelun pohjalta toimintakertomukseen otettavan osion?", 5, ./chunks_hallinto/chunk6.txt
+"Mitä on sisäisen valvonnan ja riskienhallinnan järjestämisessä tarkoitus hyvinvointialueella?", 5, ./chunks_hallinto/chunk6.txt
+"Mikä on aluehallituksen omavalvontaohjelman tarkoitus hyvinvointialueella?", 5, ./chunks_hallinto/chunk6.txt
+"Miten hyvinvoinnialuejohtaja vastaa sisäisen valvonnan järjestämisestä ja yhteen sovittamisesta?", 5, ./chunks_hallinto/chunk6.txt
+"Mitä on sisäinen tarkastus hyvinvointialueella?", 5, ./chunks_hallinto/chunk6.txt
+"Kuka päättää aluehallituksen sisäisen valvonnan ohjeistuksesta?", 5, ./chunks_hallinto/chunk6.txt
+"Miten hyvinvoinnialuejohtaja antaa vuosittaisessa raportissaan johtopäätökset ja selvityksen omavalvontaohjelman sekä varautumisen toimeenpanosta ja tuloksista?", 5, ./chunks_hallinto/chunk6.txt
+"Mitä on sisäisen valvonnan järjestämisessä tarkoitus hyvinvointialueella?", 5, ./chunks_hallinto/chunk6.txt
+"Miten hyvinvoinnialuejohtaja vastaa sisäisen valvonnan ja riskienhallinnan järjestämisestä siten, että hyvinvointialueen toiminnan olennaiset riskit tunnistetaan ja kuvataan?", 5, ./chunks_hallinto/chunk6.txt
+"Mikä on hyvinvoinnialuejohtajan tehtävä sisäisen valvonnan ja riskienhallinnan järjestämisessä?", 5, ./chunks_hallinto/chunk6.txt
+"Miten aluehallitus vastaa kokonaisvaltaisen sisäisen valvonnan ja riskienhallinnan sekä omavalvontaohjelman ja varautumisen järjestämisestä?", 5, ./chunks_hallinto/chunk6.txt
+"Mitä on sisäisen tarkastuksen valmistelun pohjalta toimintakertomukseen otettavan osion sisältö hyvinvointialueella?", 5, ./chunks_hallinto/chunk6.txt
