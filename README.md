@@ -1,4 +1,4 @@
-The following project is research conducted by the SipeAI team.
+The following project is initial research conducted by the SipeAI team. 
 
 
 # TLDR Description (Standard RAG vs RAGBERT)
@@ -25,13 +25,20 @@ It is evaluated against embedchain (using default settings, OpenAI API).
 
 This project introduces the RAG concept with the BRRT model.
 The simplified cycle of the RagBERT is as follows:
-choose document(s)
-split them to chunks (so far you have to do it manually)
-select the LLM model and generate X amount of data (e.g. questions that point to the correct chunk)
-format the data with labels (e.g. path to chunk)
-split the dataset to train, test, validate
-train bert model
-use it to pick the chunk based on the query which is given
+
+1. choose document(s)
+
+2. split them to chunks (so far you have to do it manually)
+
+3. select the LLM model and generate X amount of data (e.g. questions that point to the correct chunk)
+
+4. format the data with labels (e.g. path to chunk)
+
+5. split the dataset to train, test, validate
+
+6. train bert model
+
+7. use it to pick the chunk based on the query which is given
 
 
 ## Evaluation
